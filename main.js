@@ -20,7 +20,7 @@ function modelLoaded() {
 }
 function draw() {
     background('#969A97');
-    Fill('#F90093');
+    fill('#F90093');
     stroke('#F90093');
     square(noseX, noseY, difference);
 }
